@@ -4,5 +4,5 @@ using ConsoleTest.Functionality;
 
 
 
-TheGames.GuessTheWord();
+TheGame.GuessTheWord();
 
