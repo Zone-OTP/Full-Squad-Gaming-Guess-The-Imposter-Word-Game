@@ -1,0 +1,14 @@
+C:\Users\BFB\source\repos\Zone-OTP\Full-Squad-Gaming-Guess-The-Imposter-Word-Game\ConsoleTest\bin\Debug\net9.0\ConsoleTest.exe
+C:\Users\BFB\source\repos\Zone-OTP\Full-Squad-Gaming-Guess-The-Imposter-Word-Game\ConsoleTest\bin\Debug\net9.0\ConsoleTest.deps.json
+C:\Users\BFB\source\repos\Zone-OTP\Full-Squad-Gaming-Guess-The-Imposter-Word-Game\ConsoleTest\bin\Debug\net9.0\ConsoleTest.runtimeconfig.json
+C:\Users\BFB\source\repos\Zone-OTP\Full-Squad-Gaming-Guess-The-Imposter-Word-Game\ConsoleTest\bin\Debug\net9.0\ConsoleTest.dll
+C:\Users\BFB\source\repos\Zone-OTP\Full-Squad-Gaming-Guess-The-Imposter-Word-Game\ConsoleTest\bin\Debug\net9.0\ConsoleTest.pdb
+C:\Users\BFB\source\repos\Zone-OTP\Full-Squad-Gaming-Guess-The-Imposter-Word-Game\ConsoleTest\obj\Debug\net9.0\ConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BFB\source\repos\Zone-OTP\Full-Squad-Gaming-Guess-The-Imposter-Word-Game\ConsoleTest\obj\Debug\net9.0\ConsoleTest.AssemblyInfoInputs.cache
+C:\Users\BFB\source\repos\Zone-OTP\Full-Squad-Gaming-Guess-The-Imposter-Word-Game\ConsoleTest\obj\Debug\net9.0\ConsoleTest.AssemblyInfo.cs
+C:\Users\BFB\source\repos\Zone-OTP\Full-Squad-Gaming-Guess-The-Imposter-Word-Game\ConsoleTest\obj\Debug\net9.0\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\BFB\source\repos\Zone-OTP\Full-Squad-Gaming-Guess-The-Imposter-Word-Game\ConsoleTest\obj\Debug\net9.0\ConsoleTest.dll
+C:\Users\BFB\source\repos\Zone-OTP\Full-Squad-Gaming-Guess-The-Imposter-Word-Game\ConsoleTest\obj\Debug\net9.0\refint\ConsoleTest.dll
+C:\Users\BFB\source\repos\Zone-OTP\Full-Squad-Gaming-Guess-The-Imposter-Word-Game\ConsoleTest\obj\Debug\net9.0\ConsoleTest.pdb
+C:\Users\BFB\source\repos\Zone-OTP\Full-Squad-Gaming-Guess-The-Imposter-Word-Game\ConsoleTest\obj\Debug\net9.0\ConsoleTest.genruntimeconfig.cache
+C:\Users\BFB\source\repos\Zone-OTP\Full-Squad-Gaming-Guess-The-Imposter-Word-Game\ConsoleTest\obj\Debug\net9.0\ref\ConsoleTest.dll
